@@ -58,7 +58,7 @@ Porque nos ayuda a:
 ![Visualización p-valor](images/P-Valor.gif)
 
 Puedes ver o descargar el GIF aquí:  
-👉 [P-Valor.gif](images/P-Valor.gif)
+👉 [P-Valor.gif](P-Valor.gif)
 
 📌 **Descripción**:  
 Esta animación muestra una **distribución normal** donde el área roja representa la probabilidad (p-valor) de obtener un valor tan extremo como **z = 1.96** bajo la hipótesis nula.  
