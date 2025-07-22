@@ -55,7 +55,7 @@ Porque nos ayuda a:
 
 ## 🎞️ Visualización del p-valor
 
-![Visualización p-valor](images/P-Valor.gif)
+![Visualización p-valor](P-Valor.gif)
 
 Puedes ver o descargar el GIF aquí:  
 👉 [P-Valor.gif](P-Valor.gif)
