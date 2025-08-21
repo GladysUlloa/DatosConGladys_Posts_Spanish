@@ -24,6 +24,10 @@ En otras palabras, estos pasos no son simples “preparaciones técnicas”. Son
 Aquí puedes ver un ejemplo animado de cómo cambia la distribución de los datos con estandarización, normalización y transformación:
 ![Gráficas de transformación de datos](https://github.com/GladysUlloa/DatosConGladys_Posts_Spanish/blob/1dc7ef17ecbf681c05d6f34d4851d04f88c3221c/Estandarizacion_Normalizacion_Transformacion/Grafica_de_Estandarizacion_Normalizacion_Transformacion.gif?raw=true)
 
+Puedes ver el notebook con el GIF de las gráficas aquí:  
+[GIF de estandarización, normalización y transformación de datos](https://github.com/GladysUlloa/DatosConGladys_Posts_Spanish/blob/4a04600bf1514dd54c4c8c4362b06080cc839df0/Estandarizacion_Normalizacion_Transformacion/gif_grafica_estandarizacion_normalizacion_transformacion_de_datos.ipynb)
+
+
 🚀 La buena práctica es siempre **visualizar antes y después** de aplicar estas técnicas: histogramas, curvas de densidad y boxplots nos permiten comprender cómo cambia la información y verificar si el ajuste cumple con el objetivo.
 
 ### En resumen
