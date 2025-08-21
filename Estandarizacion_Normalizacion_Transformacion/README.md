@@ -19,6 +19,13 @@ Se aplica cuando necesitamos modificar la forma de la distribución, como en el 
 
 En otras palabras, estos pasos no son simples “preparaciones técnicas”. Son decisiones estratégicas que determinan si nuestro modelo será robusto, interpretativo y capaz de generar valor. Una mala preparación puede llevar a resultados sesgados, baja precisión y conclusiones equivocadas.
 
+## Visualización de los efectos
+
+Aquí puedes ver un ejemplo animado de cómo cambia la distribución de los datos con estandarización, normalización y transformación:
+
+![Gráficas de transformación de datos](Estandarizacion_Normalizacion_Transformacion/Grafica%20de%20Estandarizacion_Normalizacion_Transformacion.gif)
+
+
 🚀 La buena práctica es siempre **visualizar antes y después** de aplicar estas técnicas: histogramas, curvas de densidad y boxplots nos permiten comprender cómo cambia la información y verificar si el ajuste cumple con el objetivo.
 
 ### En resumen
