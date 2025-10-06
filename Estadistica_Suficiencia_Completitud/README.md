@@ -1,6 +1,6 @@
 # 📊 Estadística, Suficiencia y Completitud: La Esencia de la Información en los Datos
 
-![Estadística, Suficiencia y Completitud](estadistica.gif)
+![Estadística, Suficiencia y Completitud](distribucion_ingresos.gif)
 
 En estadística, como en la vida, no siempre más es mejor.  
 A veces, lo que realmente importa no es la **cantidad de información** que tenemos, sino **cómo la resumimos y utilizamos**.
@@ -66,5 +66,11 @@ En resumen, la suficiencia y completitud nos recuerdan que **el valor de los dat
 ---
 
 ✍️ Si este contenido te resultó útil, ¡compártelo con tu comunidad!
+
+---
+✍️ Gladys Choque Ulloa
+Data Scientist | Research | Ph(c). |Divulgadora | Fundadora de Women in DataLab
+Sígueme en Redes Sociales: Datos con Gladys: https://linktr.ee/gladyschoqueulloa
+
 
 #DataScience #Statistics #MachineLearning #DatosConGladys
