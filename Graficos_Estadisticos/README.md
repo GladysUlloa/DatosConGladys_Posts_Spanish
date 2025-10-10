@@ -73,7 +73,9 @@ El **Network Graph** muestra relaciones entre entidades: nodos y conexiones.
 ## 🖼️ Ejemplo visual  
 En el GIF siguiente puedes ver los 8 gráficos animados, cada uno con movimiento y estilo propio:  
 
-![8 gráficos animados](Graficos_Estadisticos/graphs_dashboard(2).gif)
+![8 gráficos animados](https://github.com/GladysUlloa/DatosConGladys_Posts_Spanish/raw/main/Graficos_Estadisticos/graphs_dashboardd.gif)
+
+📎 [Ver GIF de los 8 gráficos animados](https://github.com/GladysUlloa/DatosConGladys_Posts_Spanish/raw/main/Graficos_Estadisticos/graphs_dashboardd.gif)
 
 ---
 
