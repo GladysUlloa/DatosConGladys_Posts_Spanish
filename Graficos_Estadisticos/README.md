@@ -77,6 +77,8 @@ En el GIF siguiente puedes ver los 8 gráficos animados, cada uno con movimiento
 
 📎 [Ver GIF de los 8 gráficos animados](https://github.com/GladysUlloa/DatosConGladys_Posts_Spanish/raw/main/Graficos_Estadisticos/graphs_dashboardd.gif)
 
+📂 [Ver código de los gráficos animados](https://github.com/GladysUlloa/DatosConGladys_Posts_Spanish/blob/main/Graficos_Estadisticos/graficas_estadisticas.ipynb)
+
 ---
 
 ## 💡 Reflexión final
