@@ -19,10 +19,10 @@ Gracias a ella, los analistas y científicos de datos pueden:
 ---
 
 **GIF explicativo:**  
-📎 ![statistics_inference](distribucion_ingresos.gif)
-![Pruebas de Hipótesis]([https://github.com/TU_USUARIO/estadistica-inferencial/blob/main/gifs/pruebas_hipotesis.gif](https://github.com/GladysUlloa/DatosConGladys_Posts_Spanish/blob/main/statistics_inference/estadistica_inferenciall.gif))  
+⏩ ![statistics_inference]([distribucion_ingresos.gif](https://github.com/GladysUlloa/DatosConGladys_Posts_Spanish/blob/main/statistics_inference/estadistica_inferenciall.gif))
+![Pruebas de Hipótesis](https://github.com/GladysUlloa/DatosConGladys_Posts_Spanish/blob/main/statistics_inference/estadistica_inferenciall.gif)  
 
-**Código en Python:** [pruebas_hipotesis.py](https://github.com/TU_USUARIO/estadistica-inferencial/blob/main/python/pruebas_hipotesis.py)
+⏩ **Código en Python de la Gráfica:** [pruebas_hipotesis.py](https://github.com/GladysUlloa/DatosConGladys_Posts_Spanish/blob/main/statistics_inference/statistics_inference.ipynb)
 
 ---
 
