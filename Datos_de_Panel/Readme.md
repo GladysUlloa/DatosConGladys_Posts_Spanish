@@ -1,4 +1,4 @@
-# Datos de Panel: Cómo entender el cambio y las diferencias a la vez 📊
+# Datos de Panel: Cómo entender el cambio y las diferencias a la vez
 
 Cuando analizamos datos que cambian en el tiempo y entre unidades, surge una pregunta clave:  
 **¿Cómo capturar las diferencias individuales y las tendencias temporales al mismo tiempo?** 🤔
