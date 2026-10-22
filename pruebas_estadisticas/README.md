@@ -24,7 +24,7 @@ El objetivo es facilitar la selección adecuada de técnicas estadísticas y pro
 La siguiente visualización reúne 12 pruebas estadísticas fundamentales, mostrando sus principales características mediante distribuciones, gráficos comparativos, regiones críticas y representaciones de datos.
 
 <p align="center">
-  <img src="12_tests_estadisticos_perfeccionados.gif"
+  <img src="12_tests_estadisticos.gif"
        alt="Simulación avanzada de 12 tests estadísticos en Data Science"
        width="100%">
 </p>
